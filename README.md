@@ -2,6 +2,9 @@
 
 Bem-vindo ao projeto Parallax Site! Este é um site simples que incorpora a técnica de Parallax Scrolling para criar uma experiência visualmente envolvente. A técnica de parallax adiciona profundidade e movimento às páginas web, proporcionando uma sensação única de imersão.
 
+## Layout Desktop:
+![image](https://github.com/eduardossoares/parallax-site/assets/128731192/b77c8c03-c8cf-4d9d-9adf-609be56ffc3e)
+
 ## Características Principais
 
 1. **Efeito Parallax Scrolling**: A página utiliza o efeito parallax scrolling para criar camadas de elementos que se movem em velocidades diferentes, proporcionando uma experiência visual dinâmica.
