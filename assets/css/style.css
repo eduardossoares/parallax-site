@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/*
+****************HOME
+*/
+
+.home {
+    background-image: url(../img/banner.jpg);
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    filter: brightness(1);
+    opacity: 0.6;
+    height: 100vh;
+}
+
+.home div {
+    display: flex;
+    position: absolute;
+    top: 45%;
+    left: 38%;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    color: white;
+}
+
+.home div h1 {
+    text-align: center;
+    width: 100%;
+    font-size: 26px;
+    font-weight: 400;
+    padding: 15px;
+    background-color: #000000;
+}
+
+/*
+**********TEXT SECTION 1
+*/
+
+.text-section1 {
+    width: 100%;
+    height: 30vh;
+}
+
+.text-section1 .texts {
+    margin: 0 auto;
+    width: 90%;
+    padding: 45px;
+    text-align: center;
+    color: #686868;
+}
+
+.text-section1 .texts p,
+.text-section2 .texts p,
+.text-section3 .texts p {
+    margin-top: 15px;
+    letter-spacing: 1px;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+/*
+**********IMG 1
+*/
+
+.img1 {
+    width: 100%;
+    height: 35vh;
+    background-image: url(../img/pexels-alexandr-drobyshev-5418106.jpg);
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.img1 h2 {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    color: #fff;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 8px;
+    font-size: 26px;
+}
+
+
+/*
+**********TEXT SECTION 2
+*/
+
+.text-section2,
+.text-section3 {
+    width: 100%;
+    height: 30vh;
+    background-color: #282e34;
+}
+
+.text-section2 .texts,
+.text-section3 .texts {
+    margin: 0 auto;
+    width: 90%;
+    padding: 45px;
+    text-align: center;
+    color: white;
+}
+
+/*
+**********IMG 2
+*/
+
+.img2 {
+    width: 100%;
+    height: 35vh;
+    background-image: url(../img/img\ 3.jpg);
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.img2 h2 {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    color: #fff;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 8px;
+    font-size: 26px;
+}
