@@ -9,8 +9,6 @@ Bem-vindo ao projeto Parallax Site! Este é um site simples que incorpora a téc
 
 1. **Efeito Parallax Scrolling**: A página utiliza o efeito parallax scrolling para criar camadas de elementos que se movem em velocidades diferentes, proporcionando uma experiência visual dinâmica.
 
-2. **Design Responsivo**: O site é responsivo, adaptando-se a diferentes tamanhos de tela para garantir uma experiência consistente em dispositivos móveis, tablets e desktops.
-
 3. **Seções Distintas**: O conteúdo é dividido em seções distintas, cada uma com seu próprio fundo e elementos, criando uma transição suave à medida que o usuário rola a página.
 
 4. **Navegação Simples**: Uma navegação simples é incorporada para facilitar o acesso às diferentes seções do site.
